@@ -1,0 +1,7 @@
+nome = input("Seu nome é: ")
+idade = input("Qual a sua idade? ")
+idade = str(idade)
+estado = input("Mora em: ")
+ano = input("Qual ano atual? ")
+
+print( nome + " tem " + str(idade) + " anos de idade e mora em " + estado + " em " + ano + ".")
